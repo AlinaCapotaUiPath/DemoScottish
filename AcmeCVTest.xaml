@@ -1,4 +1,4 @@
-﻿<Activity mc:Ignorable="sap sap2010" x:Class="AcmeCV" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="592,884" sap2010:WorkflowViewState.IdRef="AcmeCV_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:p="http://schemas.uipath.com/workflow/activities/cv" xmlns:p1="http://schemas.uipath.com/workflow/activities/ocr" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing" xmlns:uc="clr-namespace:UiPath.CV;assembly=UiPath.CV" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="AcmeCV" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="1638,897.333333333333" sap2010:WorkflowViewState.IdRef="AcmeCV_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:p="http://schemas.uipath.com/workflow/activities/cv" xmlns:p1="http://schemas.uipath.com/workflow/activities/ocr" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing" xmlns:uc="clr-namespace:UiPath.CV;assembly=UiPath.CV" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
       <x:String>System.Activities</x:String>
@@ -62,7 +62,7 @@
       <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="AcmeCV" sap:VirtualizedContainerService.HintSize="476,719.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="AcmeCV Test" sap:VirtualizedContainerService.HintSize="476,719.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -75,7 +75,7 @@
             <DelegateInArgument x:TypeArguments="x:Object" Name="CVSessionData" />
           </ActivityAction.Argument>
           <Sequence DisplayName="Do" sap2010:WorkflowViewState.IdRef="Sequence_2">
-            <p:CvHighlightWithDescriptor Color="Gold" Descriptor="[&quot;Target: InputBox (614,367,789,40)&quot; +&#xD;&#xA;&quot;Anchor: Text 'Email Address of Requester' (596,339,219,19)&quot;]" DesignTimeCacheId="1df56415-2b4d-4fa0-813d-b7b3b27ca88f" DesignTimeScaleFactor="1.25" DisplayName="CV Highlight - InputBox" HighlightTime="1000" sap:VirtualizedContainerService.HintSize="400,138" sap2010:WorkflowViewState.IdRef="CvHighlightWithDescriptor_1" InformativeScreenshot="eb533fa7ac0a4234518e45cedf76f1f4" Version="V2">
+            <p:CvHighlightWithDescriptor Color="Gold" Descriptor="[&quot;Target: InputBox (614,367,789,40)&quot; +&#xA;&quot;Anchor: Text 'Email Address of Requester' (596,339,219,19)&quot;]" DesignTimeCacheId="1df56415-2b4d-4fa0-813d-b7b3b27ca88f" DesignTimeScaleFactor="1.25" DisplayName="CV Highlight - InputBox" HighlightTime="1000" sap:VirtualizedContainerService.HintSize="400,138" sap2010:WorkflowViewState.IdRef="CvHighlightWithDescriptor_1" InformativeScreenshot="eb533fa7ac0a4234518e45cedf76f1f4" Version="V2">
               <p:CvHighlightWithDescriptor.DesignTimeDescriptor>
                 <uc:CvDescriptor>
                   <uc:CvDescriptor.Anchors>
