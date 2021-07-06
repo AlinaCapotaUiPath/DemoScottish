@@ -1,0 +1,12 @@
+﻿{
+  "Id": "PxJ5EmWifUWGUcUTNhVBmg",
+  "Reference": "xS7NHDA4nEC7bpyfcLcawg/PxJ5EmWifUWGUcUTNhVBmg",
+  "ParentRef": "xS7NHDA4nEC7bpyfcLcawg/jjpN1--6I0u4bI26wV8tFQ",
+  "Name": "Work Items",
+  "Type": "Screen",
+  "Created": "2021-06-23T12:17:48.5401485Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-23T12:17:48.5401485Z"
+}

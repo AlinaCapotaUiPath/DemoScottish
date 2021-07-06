@@ -1,0 +1,16 @@
+﻿{
+  "Id": "I5oMgm1fTkC6cpb2JZDidw",
+  "Reference": "xS7NHDA4nEC7bpyfcLcawg/I5oMgm1fTkC6cpb2JZDidw",
+  "ParentRef": "xS7NHDA4nEC7bpyfcLcawg/tGGEixh3zU2g-w3RfDQxxg",
+  "Name": "Log In Btn",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-06-23T13:54:42.3184642Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-23T13:55:03.3300307Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

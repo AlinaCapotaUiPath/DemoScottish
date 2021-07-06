@@ -1,0 +1,16 @@
+﻿{
+  "Id": "cz13JHLtUEeKz9QUU-aTEg",
+  "Reference": "xS7NHDA4nEC7bpyfcLcawg/cz13JHLtUEeKz9QUU-aTEg",
+  "ParentRef": "xS7NHDA4nEC7bpyfcLcawg/tGGEixh3zU2g-w3RfDQxxg",
+  "Name": "Password",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2021-06-23T13:54:13.0765156Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-23T13:54:36.37445Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

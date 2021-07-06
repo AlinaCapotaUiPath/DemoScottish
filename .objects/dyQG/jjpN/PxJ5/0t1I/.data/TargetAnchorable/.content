@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/work-items/61320966" ContentHash="MzMDVYce1kKfDU8CnOoaDw" DesignTimeRectangle="1215, 469, 420, 88" ElementType="Text" FriendlyName="'WIID: 61320966'" FullSelectorArgument="&lt;webctrl idx='3' tag='P' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='P' check:text='WIID: 61320966&amp;#xA;                            Type: Process Vendor Invoice&amp;#xA;                           ' /&gt;" Reference="xS7NHDA4nEC7bpyfcLcawg/0t1I1-7Cw0WMr47Jgo4a7g" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1215, 435, 420, 22" FriendlyName="'Work Item Details'" FullSelectorArgument="&lt;webctrl idx='2' tag='H4' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='H4' aaname='Work Item Details' check:text='Work Item Details' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">19UgnT9cL2E-Ye38u1VpeNw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0gCuaVSjkzUu7kArGjhHQqQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="099204c06a99a1a1486c5bb5ff4f44d9.png" xmlns="">0-az6j9s6e0WgFgVX8LMWYg</imageRef>
+</TargetAnchorable>

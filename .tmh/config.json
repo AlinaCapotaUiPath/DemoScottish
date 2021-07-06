@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/aifduteam/AlinaTest_ScottishGov/testmanager_/",
+  "defaultProject": {
+    "id": "e47d0dfc-3a00-0000-4235-0b42b270f2bf",
+    "name": "AlinaProject",
+    "key": "ALN"
+  }
+}

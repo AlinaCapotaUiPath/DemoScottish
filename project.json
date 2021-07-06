@@ -1,0 +1,79 @@
+{
+  "name": "TestAutomationProject16",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "AlinaLib": "[1.0.4]",
+    "UiPath.Database.Activities": "[1.4.0]",
+    "UiPath.System.Activities": "[21.4.0]",
+    "UiPath.Testing.Activities": "[1.3.3]",
+    "UiPath.UIAutomation.Activities": "[21.4.3]",
+    "UiPath.Vision": "[3.0.1]",
+    "UiPath.WebAPI.Activities": "[1.7.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.4.3.0",
+  "projectVersion": "1.0.78762573",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f9746067-c9e8-4cbc-b5d8-c026e3b00748",
+        "dataVariationFilePath": ".variations\\Data_Sheet1.json",
+        "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "28fe6192-dcd2-41bd-9c84-1769d641a7f6",
+        "dataVariationFilePath": ".variations\\ZoVt4HwCuaqebriG-Data_Sheet1.json",
+        "fileName": "UiBankAPITestCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "b73c9aac-8eb3-4ca1-8493-33d1e5d66514",
+        "dataVariationFilePath": ".variations\\Test Data_Sheet1.json",
+        "fileName": "TestCaseDB.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "fc98f5b1-2eba-46ea-a199-7513f1cc302e",
+        "fileName": "TestCaseTrue.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "05453ef2-e72c-4050-a6e9-4ac01aa45f28",
+        "fileName": "TestCaseAlina.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
